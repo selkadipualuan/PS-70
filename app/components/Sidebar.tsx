@@ -101,6 +101,20 @@ export default function Sidebar({ weeks, showAboutMe = false }: { weeks: number[
                   </Link>
                 </motion.li>
               ))}
+              <motion.li
+                variants={linkVariants}
+                initial={isAnimationsEnabled ? "initial" : false}
+                animate="animate"
+                whileHover="hover"
+              >
+                <Link
+                  href="/mvp"
+                  className="block text-[#e0e0e0] hover:text-[#f5f5f5] transition-colors duration-200 text-lg"
+                  onClick={() => setIsOpen(false)}
+                >
+                  MVP
+                </Link>
+              </motion.li>
             </ul>
           </nav>
         </motion.aside>
