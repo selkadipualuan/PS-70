@@ -39,7 +39,7 @@ export default function AboutMe() {
           <div>
             <h3 className="text-[1.5rem] mb-3 text-[#f5f5f5] font-['Monument']">CALVIN ANGUS BEIGHLE</h3>
             <p className="text-[#e0e0e0] leading-relaxed text-lg">
-              Hi! I'm Calvin. I am a senior in Leverett House originally the Class of 2024. I like creating things and working with my hands, but it has been a long time since I've done so! I opened a design studio over the summer and have been designing websites, apps, branding, products, and interiors.
+              Hi! I'm SAID!!. I am a senior in Leverett House originally the Class of 2024. I like creating things and working with my hands, but it has been a long time since I've done so! I opened a design studio over the summer and have been designing websites, apps, branding, products, and interiors.
             </p>
           </div>
 
